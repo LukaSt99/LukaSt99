@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Lluka Stojollari👋
-- 👀  I'm passionate about Deep Learning, Natural Language Processing (NLP), and the field of Data Science in general.
+- 👀 Currently a master's student at EPFL in Data Science, passionate about Deep Learning, Natural Language Processing, and Reinforcement Learning.
 
 ### 👨🏼‍💻 Languages and Tools:
 
