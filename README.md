@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Lluka Stojollari👋
-- 👀 Interested in Natural Language Processing, and Reinforcement Learning.
+- 👀 Interested in Natural Language Processing and Reinforcement Learning.
 - Currently working on Privacy-Preserving techniques for Large Language Models. 
 ### 👨🏼‍💻 Languages and Tools:
 
